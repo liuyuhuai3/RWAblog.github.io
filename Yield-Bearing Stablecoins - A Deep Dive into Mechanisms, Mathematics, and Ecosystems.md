@@ -1,4 +1,3 @@
-# Yield-Bearing Stablecoins - A Deep Dive into Mechanisms, Mathematics, and Ecosystems
 # 收益型稳定币——深入探究机制、数学和生态系统
 
   本文是对文章Yield-Bearing Stablecoins - A Deep Dive into Mechanisms, Mathematics, and Ecosystems的中文翻译，由于笔者对于翻译涉猎不深，因此文章中会存在笔误部分。欢迎各位web3社区建造者一起完善，补充这份稳定币的研究文章翻译，共同建造开源社区。
